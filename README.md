@@ -56,4 +56,4 @@ If you would like to contribute to this project:
 ## 📝 License
 This project is open-source and available under the MIT License. You can freely use and modify the software.
 
-For further questions or suggestions, feel free to open an issue on GitHub!
+For further questions or suggestions, feel free to open an issue on GitHub!Minor update for PR
