@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qrstudio"
+version = "0.1.0"
+description = "Generate QR codes (GUI/CLI) with white or transparent backgrounds"
+requires-python = ">=3.9"
+dependencies = [
+  "qrcode[pil]",
+  "Pillow"
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+qrstudio = "qrstudio.ui.tk_app:main"
