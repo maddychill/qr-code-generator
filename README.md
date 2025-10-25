@@ -1,7 +1,7 @@
 # 🖥️ qr-code-generater - Easily Create QR Codes in Seconds
 
 ## 🚀 Overview
-The **qr-code-generater** is a user-friendly desktop application that lets you create QR codes quickly. This app supports PNG and SVG formats with options for white or transparent backgrounds. Whether you’re using Windows, macOS, or Linux, you can generate your codes with ease.
+The **qr-code-generater** is a user-friendly desktop application that lets you create QR codes quickly. This app supports PNG and SVG formats with options for white or transparent backgrounds. Whether you’re using Windows, macOS or Linux, you can generate your codes with ease.
 
 ## 📥 Download Now
 [![Download Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/babachar20/qr-code-generater/releases)
